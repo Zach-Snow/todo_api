@@ -1,0 +1,14 @@
+flask
+flask-restful
+python-dotenv
+pymongo
+dnspython
+termcolor
+ftfy
+requests
+pyopenssl
+gevent
+Werkzeug==2.0.3
+flask-lambda
+
+
