@@ -1,6 +1,5 @@
 import json
 import uuid
-from pprint import pprint
 from database import db
 from flask_restful import Resource, reqparse
 from flask import Response,jsonify
