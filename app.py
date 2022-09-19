@@ -1,9 +1,9 @@
-from flask_lambda import FlaskLambda
+from flask import Flask
 from flask_restful import Api
 from root import Root
 from todo_module import todo
 
-app = FlaskLambda(__name__)
+app = Flask(__name__)
 api = Api(app)
 
 # Root path

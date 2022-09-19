@@ -9,6 +9,6 @@ requests
 pyopenssl
 gevent
 Werkzeug==2.0.3
-flask-lambda
+
 
 
